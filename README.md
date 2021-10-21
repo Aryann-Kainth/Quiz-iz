@@ -45,6 +45,9 @@ Here the user has the option to save his/her score in the local storage
 Only the top 5 highest scores get featured in the High Scores List 
 
 
-![Screenshot 2021-10-21 at 8 00 34 PM](https://user-images.githubusercontent.com/86730045/138299290-38e21252-7aca-48b0-b710-a4e80055cf2b.png)
+
+![Screenshot 2021-10-21 at 8 06 44 PM](https://user-images.githubusercontent.com/86730045/138300381-0d5207de-e7ba-44db-a2e9-6d62f0887d8a.png)
+
+
 
 
